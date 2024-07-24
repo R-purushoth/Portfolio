@@ -497,7 +497,8 @@ h3.my-profession {
 }
 
 .about .about-content .skills .skill-item .progress .progress-4 {
-  width: 0%;
+  width: 90%;
+  animation: sideIn3 8s ease;
 }
 
 .about .about-content .skills .skill-item .progress .progress-5 {

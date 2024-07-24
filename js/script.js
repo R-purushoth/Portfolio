@@ -2,10 +2,11 @@
 
 var typed1 = new Typed(".typing1", {
   strings: [
+    "I'm a Software Developer",
     "I'm a Web Developer",
-    "I'm a Web Designer",
     "I'm a Self Learner",
     "I'm a Hard Worker",
+    "I know Java",
     "I Know HTML",
     "I Know CSS",
     "I Know Javascript",
